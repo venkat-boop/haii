@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="deeep" language="en" table="x_594691_tetrax_deeep">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>deeep</label>
+            <language>en</language>
+            <name>x_594691_tetrax_deeep</name>
+            <plural>deeeps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-10 07:05:26</sys_created_on>
+            <sys_id>7725447507722010100ff61d7c1ed0b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>deeep</sys_name>
+            <sys_package display_value="tetrax" source="x_594691_tetrax">2a68979907b22010100ff61d7c1ed02b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="tetrax">2a68979907b22010100ff61d7c1ed02b</sys_scope>
+            <sys_update_name>sys_documentation_x_594691_tetrax_deeep__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-10 07:05:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
